@@ -28,22 +28,22 @@
 
 <table>
   <tr>
-    <td><img src="web_app_dashboard-screenshots/welcome-1.png" width=270 height=480></td>
-     <td><img src="web_app_dashboard-screenshots/signin-1.png" width=270 height=480></td>
+    <td><img src="meeting_screenshots/welcome-1.png" width=270 height=480></td>
+     <td><img src="meeting_screenshots/signin-1.png" width=270 height=480></td>
     
   </tr>
  <tr>
-  <td><img src="web_app_dashboard-screenshots/home-1.png" width=270 height=480></td>
-    <td><img src="web_app_dashboard-screenshots/schedule-1.png" width=270 height=480></td>
+  <td><img src="meeting_screenshots/home-1.png" width=270 height=480></td>
+    <td><img src="meeting_screenshots/schedule-1.png" width=270 height=480></td>
    
   </tr>
    <tr>
-    <td><img src="web_app_dashboard-screenshots/history-1.png" width=270 height=480></td>
+    <td><img src="meeting_screenshots/history-1.png" width=270 height=480></td>
   
   </tr>
    <tr>
-    <td><img src="web_app_dashboard-screenshots/creating_meeting-1.png" width=270 height=480></td>
-   <td><img src="web_app_dashboard-screenshots/creating_meeting-2.png" width=270 height=480></td>
+    <td><img src="meeting_screenshots/creating_meeting-1.png" width=270 height=480></td>
+   <td><img src="meeting_screenshots/creating_meeting-2.png" width=270 height=480></td>
   </tr>
 
   </table>
