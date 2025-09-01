@@ -46,8 +46,8 @@
    <td><img src="meeting_screenshots/creating_meeting-2.png" width=270 height=480></td>
   </tr>
    <tr>
-    <td><img src="meeting_screenshots/waiting-1" width=270 height=480></td>
-   <td><img src="meeting_screenshots/meeting_jitsi" width=270 height=480></td>
+    <td><img src="meeting_screenshots/waiting-1.png" width=270 height=480></td>
+   <td><img src="meeting_screenshots/meeting_jitsi.png" width=270 height=480></td>
   </tr>
 
   </table>
